@@ -1,7 +1,7 @@
 {
-	"name": "FlowOS",
-	"description": "The customizable webOS.",
-	"repository": "https://github.com/Flow-Works/FlowOS",
+	"name": "PrivateOS",
+	"description": "The most private OS for Henry.",
+	"repository": "https://github.com",
 	"logo": "https://raw.githubusercontent.com/Flow-Works/FlowOS/main/FlowOS/public/assets/logo.png",
 	"keywords": ["tomp", "ultraviolet", "webos"]
 }
