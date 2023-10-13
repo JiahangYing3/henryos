@@ -1,7 +1,7 @@
 {
-	"name": "flow-os",
+	"name": "private-os",
 	"version": "beta",
-	"description": "The customizable webOS.",
+	"description": "The best OS for Henry.",
 	"keywords": [
 		"tomp",
 		"webos"
